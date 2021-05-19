@@ -16,6 +16,7 @@ export default {
   // *----------------------- C o m p u t e d ---------------------------------------------------
   computed: {},
   // *----------------------- L i f e   c i r c l e ---------------------------------------------
+  // for any complex logic, you should use a computed property to take out complexity from template
   created() {},
   // *----------------------- M e t h o d s -----------------------------------------------------
   methods: {},
