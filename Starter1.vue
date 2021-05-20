@@ -1,3 +1,14 @@
+/*
+beforeCreate (you can run code before the Vue instance is created)
+created (you can run code after the Vue instance is created )
+beforeMount (you can run code before your element is mounted to the DOM)
+mounted (you can run code when the element is mounted to the DOM)
+beforeUpdate (you can run code before values are updated in the DOM)
+updated (you can run code after values in the DOM have been updated)
+beforeDestroy (you can run code before an instance is destroyed)
+destroyed (you can run code when an instance is destroyed)
+*/
+
 <template>
   <section class="component-name">
     Component here
